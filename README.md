@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I am a student of Systems Engineering and Computer Science 🎓 at the Technological University of Peru 🏛. I am a passionate learner who loves to explore new technologies and harness them to solve real life problems ✨. I currently dedicate myself to web development and work as a Full Stack developer.
+
+## Languages & Frameworks & Tools:
+
+| Function name | Description                    |
+| ------------- | ------------------------------ |
+| `help()`      | Display the help window.       |
+| `destroy()`   | **Destroy your computer!**     |
+
 <!--
 **Markillat/Markillat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
