@@ -1,8 +1,17 @@
 ### <h3 align="center">Hi👋, I'm Marcelo Quilca</h3>
 
+<p align="center">
+<a href="https://linkedin.com/in/marcelo quilca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelo quilca" height="30" width="40" /></a>
+</p>
+
+<h5 align="center" dir="auto">
+  <code><a href="https://pe.linkedin.com/in/jos%C3%A9-luis-marcelo-quilca-abarca-70b702151" title="LinkedIn Profile" rel="nofollow"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="max-width: 100%;"> LinkedIn</a></code>
+  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile" rel="nofollow"><img width="22" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" style="max-width: 100%;"> Stack Overflow</a></code>
+</h5>
+
 I am a student of Systems Engineering and Computer Science 🎓 at the Technological University of Peru 🏛. I am a passionate learner who loves to explore new technologies and harness them to solve real life problems ✨. I currently dedicate myself to web development and work as a Full Stack developer.
 
-## Languages & Frameworks & Tools:
+## 🔥 Languages & Frameworks & Tools: 🔥
 
 | <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> |  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> |  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> |  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> |  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> |  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> | <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> | <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> |  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 | -------- | --------- | -------- | -------- | --------  | --------  | --------- |  ------ |  -------- | -----------  | 
@@ -11,7 +20,3 @@ I am a student of Systems Engineering and Computer Science 🎓 at the Technolog
 <p class="text-end"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=markillat&show_icons=true&locale=en&layout=compact" alt="markillat" /></p>
 <p class="text-end">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markillat&show_icons=true&locale=en" alt="markillat" /></p>
 
-### <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marcelo quilca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelo quilca" height="30" width="40" /></a>
-</p>
